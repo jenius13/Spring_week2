@@ -1,0 +1,2 @@
+com/sparta/week2/Week2ApplicationTests.java
+ com.sparta.week2.Week2ApplicationTests
